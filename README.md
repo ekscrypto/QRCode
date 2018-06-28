@@ -109,7 +109,7 @@ Current Swift compatibility breakdown:
 | 2.3	        | 1.x          		|
 | 2.2           | 0.x          		|
 
-[all releases]: https://github.com/aschuch/QRCode/releases
+[all releases]: https://github.com/ekscrypto/QRCode/releases
 
 ## Installation
 
@@ -118,7 +118,7 @@ Current Swift compatibility breakdown:
 Add the following line to your [Cartfile](https://github.com/Carthage/Carthage/blob/master/Documentation/Artifacts.md#cartfile).
 
 ```
-github "aschuch/QRCode"
+github "ekscrypto/QRCode"
 ```
 
 Then run `carthage update`.
@@ -128,10 +128,10 @@ Then run `carthage update`.
 Add the following line to your Podfile.
 
 ```
-pod "QRCode"
+pod "QRCode", :git => "https://github.com/ekscrypto/QRCode.git"
 ```
 
-Then run `pod install` with Cocoapods 0.36 or newer.
+Then run `pod install` with Cocoapods 1.5.3 or newer.
 
 #### Manually
 
