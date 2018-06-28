@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/aschuch/QRCode.svg)](https://travis-ci.org/aschuch/QRCode)
 ![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)
-![Swift 3.0](https://img.shields.io/badge/Swift-3.0-orange.svg)
+![Swift 4.2](https://img.shields.io/badge/Swift-4.2-orange.svg)
 
 A QRCode generator written in Swift.
 
@@ -103,7 +103,9 @@ Current Swift compatibility breakdown:
 
 | Swift Version | Framework Version |
 | ------------- | ----------------- |
-| 3.0	        | 2.x          		|
+| 4.2	        | 2.1        		|
+| 4.0	        | 2.0.1        		|
+| 3.0	        | 2.0          		|
 | 2.3	        | 1.x          		|
 | 2.2           | 0.x          		|
 
